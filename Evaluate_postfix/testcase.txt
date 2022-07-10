@@ -1,0 +1,32 @@
+input is ""                        wrong
+input is " "                      wrong
+input is "1"                        1
+input is "99+-"                  wrong 
+input is "32*5+"                 11
+input is "325**"                 30
+input is "ab*"                   wrong
+input is "325+*"                 21
+input is "325*+"                  13
+input is "325--"                  6
+input is "325*-"                  -7
+input is "325-*"                  -9
+inpur is "111111****************"         wrong
+input is "123+++"               wrong
+input is "2+"                  wrong
+input is "3aa-+"              wrong
+input is "100000"             wrong
+input is "00000****"           0
+input is "00000*****"        wrong
+input is "12'"               wrong
+input is "wrong_in"          wrong
+input is "120--"             -1
+input is " 1234567++++++"    28      
+input is "12+23-23*"         wrong
+input is "1234***"                24
+input is "11+"                2
+input is "00/"               wrong             
+input is "111112222"         wrong
+input isn "*+-"              wrong
+input is "12="              wrong
+input is "1+(2+3)"         wrong
+input is "6324+-*"         					answer is -18
